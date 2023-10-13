@@ -2,11 +2,11 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=wyumeg&color=7d0e0e&style=for-the-badge&logo=GitHub">
 
-> Faça uma breve aprensentação sobre você e a sua área.
+> .
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+🔭 .
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+💬 .
 
 ---
 
