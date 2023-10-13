@@ -1,5 +1,7 @@
 ## 💜 Olá, meu nome é <strong>Megan!</strong>
 
+<img src="https://img.shields.io/static/v1?label=Overview&message=wyumeg&color=7d0e0e&style=for-the-badge&logo=GitHub">
+
 > Faça uma breve aprensentação sobre você e a sua área.
 
 🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
@@ -17,7 +19,3 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 
 ---
-
-## ⭐ Informações sobre minha conta GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wyumeg&show_icons=true)
